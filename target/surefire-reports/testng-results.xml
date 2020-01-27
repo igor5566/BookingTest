@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="tests" duration-ms="17864" started-at="2020-01-15T20:04:33Z" finished-at="2020-01-15T20:04:51Z">
+    <groups>
+    </groups>
+    <test name="First" duration-ms="17864" started-at="2020-01-15T20:04:33Z" finished-at="2020-01-15T20:04:51Z">
+      <class name="com.booking.TestClass">
+        <test-method status="PASS" signature="setDriver()[pri:0, instance:com.booking.TestClass@1e67b872]" name="setDriver" is-config="true" duration-ms="2640" started-at="2020-01-15T22:04:30Z" finished-at="2020-01-15T22:04:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.booking.TestClass@1e67b872]" name="setUp" is-config="true" duration-ms="0" started-at="2020-01-15T22:04:33Z" finished-at="2020-01-15T22:04:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="firstTest()[pri:1, instance:com.booking.TestClass@1e67b872]" name="firstTest" duration-ms="13342" started-at="2020-01-15T22:04:33Z" finished-at="2020-01-15T22:04:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+        <test-method status="PASS" signature="secondTest()[pri:2, instance:com.booking.TestClass@1e67b872]" name="secondTest" duration-ms="145" started-at="2020-01-15T22:04:46Z" finished-at="2020-01-15T22:04:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTest -->
+        <test-method status="PASS" signature="thirdTest()[pri:3, instance:com.booking.TestClass@1e67b872]" name="thirdTest" duration-ms="4365" started-at="2020-01-15T22:04:47Z" finished-at="2020-01-15T22:04:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdTest -->
+        <test-method status="PASS" signature="threadDown()[pri:0, instance:com.booking.TestClass@1e67b872]" name="threadDown" is-config="true" duration-ms="217" started-at="2020-01-15T22:04:56Z" finished-at="2020-01-15T22:04:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- threadDown -->
+      </class> <!-- com.booking.TestClass -->
+    </test> <!-- First -->
+  </suite> <!-- tests -->
+</testng-results>

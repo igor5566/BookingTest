@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+    <suite name="tests" parallel="tests" thread-count="2">
+        <test name="First">
+            <packages>
+                <package name="com.booking"></package>
+            </packages>
+        </test>
+    </suite>
